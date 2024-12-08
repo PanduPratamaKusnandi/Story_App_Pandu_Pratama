@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Story App - Pandu Pratama</string>
+    <string name="home">Home</string>
+    <string name="tambah_story">Tambah Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="deskripsi_cerita_akan_tampil_di_sini">Deskripsi cerita akan tampil di sini.</string>
+    <string name="story_app">STORY APP</string>
+    <string name="buat_akun_baru">Buat Akun Baru</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="sudah_memiliki_akun_masuk">Sudah Memiliki Akun? Masuk</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_memiliki_akun_daftar">Belum Memiliki Akun? Daftar</string>
+    <string name="selamat_datang_user">Selamat Datang, User!</string>
+    <string name="tambah_cerita">Tambah Cerita</string>
+    <string name="pilih_foto">Pilih Foto</string>
+    <string name="deskripsi_cerita">Deskripsi Cerita</string>
+</resources>
